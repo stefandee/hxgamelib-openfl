@@ -4,7 +4,7 @@ It's a game library/framework for Haxe 3 and 4 and OpenFL, mainly targeting HTML
 Main features:
 * UI support via microvcl;
 * [Sentry](https://github.com/stefandee/gametoolkit) sprites loading and rendering;
-* localization (requires [StringTool](https://github.com/stefandee/gametoolkit) with [StringScript_AS30_ByteArray.csl](tools/StringTool/StringScript_AS30_ByteArray.csl) export script to convert data from a master sheet to a format usable by the library).
+* localization (requires [StringTool](https://github.com/stefandee/gametoolkit) with [StringScript_HxGameLib_ByteArray.csl](tools/StringTool/StringScript_HxGameLib_ByteArray.csl) export script to convert data from a master sheet to a format usable by the library).
 
 The library was ported from [haxgamelib](https://github.com/stefandee/hxgamelib) in 2018 to Haxe 3, and currently powers the HTML5 versions of [Born Of Fire TD](https://www.pirongames.com/born-of-fire-td/), [That Word Game](https://www.pirongames.com/that-word-game/) and [Invisible Ink](https://www.pirongames.com/invisible-ink/)
 
@@ -22,7 +22,7 @@ See [examples/gamelib](examples/gamelib), a very basic example covering the app/
 
 To build the example data, download a [Piron Games Gametoolkit](https://github.com/stefandee/gametoolkit/releases) release and unpack it, then adjust the paths in [makedata.bat](examples\gamelib\assets\makedata.bat).
 
-To build&run the example, use either [build.bat](examples\gamelib\assets\build.bat) or
+To build&run the example, use either [build.bat](examples\gamelib\build.bat) or
 
 ```console
 openfl test html5
