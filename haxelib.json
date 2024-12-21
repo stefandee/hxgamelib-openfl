@@ -1,0 +1,13 @@
+{
+  "name": "hxgamelib-openfl",
+  "license": "MIT",
+  "tags": ["gamelib", "haxe", "internal"],
+  "description": "Piron Games Haxe and OpenFL game library",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "First public release",
+  "contributors": ["Stefan Dicu"],
+  "dependencies": {
+    "haxe-crypto": ""
+  }  
+}
