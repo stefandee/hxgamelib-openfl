@@ -20,9 +20,9 @@ haxelib git hxgamelib-openfl https://github.com/stefandee/hxgamelib-openfl.git
 
 See [examples/gamelib](examples/gamelib), a very basic example covering the app/UI setup, l10n and sprite system.
 
-To build the example data, download a [Piron Games Gametoolkit](https://github.com/stefandee/gametoolkit/releases) release and unpack it, then adjust the paths in [makedata.bat](examples\gamelib\assets\makedata.bat).
+To build the example data, download a [Piron Games Gametoolkit](https://github.com/stefandee/gametoolkit/releases) release and unpack it, then adjust the paths in [makedata.bat](examples/gamelib/assets/makedata.bat).
 
-To build&run the example, use either [build.bat](examples\gamelib\build.bat) or
+To build&run the example, use either [build.bat](examples/gamelib/build.bat) or
 
 ```console
 openfl test html5
