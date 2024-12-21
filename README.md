@@ -6,7 +6,7 @@ Main features:
 * [Sentry](https://github.com/stefandee/gametoolkit) sprites loading and rendering;
 * localization (requires [StringTool](https://github.com/stefandee/gametoolkit) with [StringScript_HxGameLib_ByteArray.csl](tools/StringTool/StringScript_HxGameLib_ByteArray.csl) export script to convert data from a master sheet to a format usable by the library).
 
-The library was ported from [haxgamelib](https://github.com/stefandee/hxgamelib) in 2018 to Haxe 3, and currently powers the HTML5 versions of [Born Of Fire TD](https://www.pirongames.com/born-of-fire-td/), [That Word Game](https://www.pirongames.com/that-word-game/) and [Invisible Ink](https://www.pirongames.com/invisible-ink/)
+The library was ported from [hxgamelib](https://github.com/stefandee/hxgamelib) in 2018 to Haxe 3, and currently powers the HTML5 versions of [Born Of Fire TD](https://www.pirongames.com/born-of-fire-td/), [That Word Game](https://www.pirongames.com/that-word-game/) and [Invisible Ink](https://www.pirongames.com/invisible-ink/)
 
 ## Setup
 
